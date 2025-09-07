@@ -5,3 +5,5 @@ and my mother name is vibha srivastava
 i am a student of the b tech 
 # hobby 
 singing a song
+# class 
+this is my new class an my name is the type
